@@ -1,3 +1,4 @@
-# adv_machine_learning
-QMSS 5074 GR, ADV MACHINE LEARNING
+# Projects in Advanced Machine Learning
+Columbia University
+Quantitative Methods in Social Science
 
